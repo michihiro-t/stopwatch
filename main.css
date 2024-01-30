@@ -1,0 +1,24 @@
+#time{
+    font-size: 35px;
+    padding-left: 20px;
+}
+
+.botton{
+    display: flex;
+}
+
+#start{
+    padding: 5px;
+    margin: 3px;
+    font-weight: bold;
+}
+
+#stop{
+    margin: 3px;
+    font-weight: bold;
+}
+
+#reset{
+    margin: 3px;
+    font-weight: bold;
+}
